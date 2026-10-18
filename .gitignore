@@ -1,0 +1,6 @@
+test_dir/
+test_config/
+test_data/
+test_manual.sh
+*.csv
+.idea/
